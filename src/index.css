@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Lato:wght@300;400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --forest-green: #0F5132;
+    --gold: #C5A200;
+    --camwood-red: #A8391C;
+    --ivory: #FAF7F2;
+    --dark-brown: #2C1A0E;
+    --warm-brown: #6B3D1E;
+    --light-gold: #E8C84A;
+    --muted-green: #1A7A4A;
+    --background: 38 40% 97%;
+    --foreground: 20 40% 10%;
+    --card: 38 30% 95%;
+    --card-foreground: 20 40% 10%;
+    --border: 38 20% 85%;
+    --primary: 150 80% 19%;
+    --primary-foreground: 38 40% 97%;
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * { @apply border-border; }
+  body {
+    @apply bg-[#FAF7F2] text-[#2C1A0E];
+    font-family: 'Lato', system-ui, sans-serif;
+  }
+  h1, h2, h3, h4 {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+html { scroll-behavior: smooth; }
+
+/* Kente-inspired divider pattern */
+.kente-divider {
+  height: 6px;
+  background: repeating-linear-gradient(
+    90deg,
+    #0F5132 0px, #0F5132 20px,
+    #C5A200 20px, #C5A200 40px,
+    #A8391C 40px, #A8391C 60px,
+    #C5A200 60px, #C5A200 80px
+  );
+}
+
+/* Subtle African pattern overlay */
+.pattern-overlay {
+  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%230F5132' fill-opacity='0.04'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fade-in-up { animation: fadeInUp 0.8s ease-out forwards; }
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+}
+.float { animation: float 6s ease-in-out infinite; }
+
+.section-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  color: #0F5132;
+}
+
+.gold-underline {
+  position: relative;
+  display: inline-block;
+}
+.gold-underline::after {
+  content: '';
+  position: absolute;
+  left: 0; bottom: -6px;
+  width: 100%; height: 3px;
+  background: #C5A200;
+  border-radius: 2px;
+}
+
+.card-warm {
+  background: #FFFDF8;
+  border: 1px solid rgba(197, 162, 0, 0.15);
+  transition: all 0.3s ease;
+}
+.card-warm:hover {
+  border-color: rgba(197, 162, 0, 0.4);
+  box-shadow: 0 8px 30px rgba(15, 81, 50, 0.08);
+  transform: translateY(-2px);
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #FAF7F2; }
+::-webkit-scrollbar-thumb { background: #C5A200; border-radius: 3px; }
