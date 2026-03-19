@@ -20,12 +20,10 @@ export default function Footer() {
               Association des Fils et Filles de Badoumka aux États-Unis d'Amérique — unie par nos racines, forte par notre solidarité.
             </p>
             <div className="flex gap-3">
-              {['📘', '📸', '💬'].map((icon, i) => (
-                <a key={i} href="#"
-                  className="w-9 h-9 rounded-lg bg-white/10 flex items-center justify-center text-lg hover:bg-[#C5A200]/20 transition-colors">
-                  {icon}
-                </a>
-              ))}
+              <a href="https://www.facebook.com/BadoumakaUSA/" target="_blank" rel="noopener noreferrer"
+                className="w-9 h-9 rounded-lg bg-white/10 flex items-center justify-center text-lg hover:bg-[#C5A200]/20 transition-colors">
+                📘
+              </a>
             </div>
           </div>
 
