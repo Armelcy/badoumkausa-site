@@ -28,8 +28,8 @@ export default function Contact() {
                 {
                   icon: '🌐',
                   label: 'Site web',
-                  value: 'badoumkausa.org',
-                  href: 'https://badoumkausa.org',
+                  value: 'badoumaka.org',
+                  href: 'https://badoumaka.org',
                 },
                 {
                   icon: '📍',
