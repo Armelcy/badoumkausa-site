@@ -48,8 +48,8 @@ export default function Contact() {
                 {
                   icon: '📧',
                   label: 'Email',
-                  value: 'badoumkausa@gmail.com',
-                  href: 'mailto:badoumkausa@gmail.com',
+                  value: 'badoumka@gmail.com',
+                  href: 'mailto:badoumka@gmail.com',
                 },
                 {
                   icon: '🌐',
