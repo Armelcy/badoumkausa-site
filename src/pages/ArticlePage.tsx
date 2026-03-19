@@ -53,12 +53,12 @@ export default function ArticlePage() {
         "publisher": {
           "@type": "Organization",
           "name": "Badoumka USA",
-          "url": "https://www.badoumaka.org"
+          "url": "https://www.badoumka.org"
         },
-        "url": `https://www.badoumaka.org/actualites/${article.slug}`,
+        "url": `https://www.badoumka.org/actualites/${article.slug}`,
         "keywords": article.keywords.join(', '),
         "inLanguage": "fr",
-        "mainEntityOfPage": `https://www.badoumaka.org/actualites/${article.slug}`
+        "mainEntityOfPage": `https://www.badoumka.org/actualites/${article.slug}`
       })
       document.head.appendChild(script)
 
