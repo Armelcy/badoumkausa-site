@@ -27,7 +27,7 @@ export const ARTICLES: Article[] = [
     metaDescription: 'Retour sur la fondation de Badoumka USA, l\'association des Fils et Filles de Badoumka aux États-Unis. Histoire, vision et premiers pas de notre communauté.',
     excerpt: 'Après des mois de préparation et de mobilisation au sein de notre diaspora, l\'Association des Fils et Filles de Badoumka aux États-Unis tient désormais ses premières réunions officielles. Retour sur une fondation historique.',
     keywords: ['Badoumka USA', 'association camerounaise', 'diaspora Badoumka', 'fondation association', 'Cameroun États-Unis'],
-    content: `Notre communauté dispersée aux quatre coins des États-Unis — du Maryland à New York, du Texas à l'Ohio — a franchi une étape décisive en 2024 avec la fondation formelle de Badoumka USA.
+    content: `Notre communauté dispersée à travers les États-Unis — des Fils et Filles de Badoumka qui ont quitté le village à la recherche d'opportunités — a franchi une étape décisive en 2024 avec la fondation formelle de Badoumka USA.
 
 L'association est née d'un constat simple : nos compatriotes de Badoumka vivent souvent isolés, loin de leur famille, de leurs traditions, et d'un soutien communautaire solide. Face à ce manque, un groupe de fondateurs s'est réuni avec une vision claire : créer un espace d'appartenance, de solidarité et de transmission culturelle.
 
@@ -35,35 +35,50 @@ L'association est née d'un constat simple : nos compatriotes de Badoumka vivent
 
 Guidée par la devise *"Servir avec honneur, unir avec sagesse, transmettre avec amour"*, l'association structure ses activités autour de trois piliers fondamentaux qui reflètent nos valeurs profondes : l'unité, l'intégrité, la solidarité et l'héritage.
 
-**Trois programmes au service de Badoumka**
+**Washington D.C. : notre siège et notre hub**
 
-Le programme **Héritiers Badoumka** est destiné à notre jeunesse : il vise à transmettre notre langue, nos traditions et notre histoire aux générations nées ici, loin du village ancestral. Le programme **Badoumka Cares** incarne notre solidarité concrète — un fonds communautaire pour soutenir les membres dans le besoin. Enfin, les **rencontres mensuelles** rythment la vie de l'association et renforcent les liens entre membres.
+Washington D.C. et la région métropolitaine (DMV) accueillent actuellement notre siège social et la majorité de nos membres. Cette région est le cœur de notre mouvement — une zone où la migration de Badoumka est particulièrement forte, créant une fondation naturelle pour notre organisation. C'est d'ici que nous coordonnons nos efforts et que nous planifions notre expansion.
 
-**Une présence dans 8 régions métropolitaines**
+**Un début modeste mais significatif**
 
-Depuis le lancement, notre mouvement s'est étendu à 8 régions clés des États-Unis : la région de Washington D.C., la région métropolitaine de New York, le Texas (Houston et Dallas), l'Ohio, la Californie, l'Île-de-France et les Carolines. Cette expansion rapide témoigne d'un besoin réel au sein de notre diaspora.
+Nous commençons petit mais avec une détermination claire. Chaque mois, tous nos membres se réunissent le deuxième dimanche pour renforcer nos liens, partager nos expériences et planifier notre avenir. Ces réunions mensuelles sont le cœur battant de Badoumka USA — un moment où chacun se sent entendu, valorisé et connecté.
 
-**Les premiers résultats : au-delà des attentes**
+**Nos trois piliers**
 
-En seulement quelques mois, Badoumka USA compte déjà plus de 150 membres actifs. Les réunions mensuelles rassemblent régulièrement 30 à 50 personnes, dont une proportion croissante de jeunes (18-35 ans). Ces chiffres ne reflètent que le début : nous savons que beaucoup d'autres compatriotes attendent juste le moment opportun pour se joindre à nous.
+Bien que nous soyons au stade initial, nous avons déjà identifié les trois domaines qui guideront notre croissance :
 
-Les premiers succès incluent le lancement de notre programme Badoumka Cares, qui a déjà soutenu trois familles en situation difficile. De plus, le programme Héritiers Badoumka a accueilli 25 jeunes qui suivent régulièrement nos ateliers de langue et de culture.
+**Infrastructure** — Maintenir et renforcer le lien entre Badoumka (village) et Badoumka USA (diaspora). À mesure que nous grandissons, nous aurons les ressources pour soutenir des projets de développement au village.
 
-**Ce que les membres en disent**
+**Relève** — Transmettre à la prochaine génération notre langue, nos traditions et notre identité. Nous planifions le lancement de programmes de mentorat et d'ateliers culturels pour nos enfants.
 
-*"Après 15 ans aux États-Unis, je me sentais coupé de mes racines. Badoumka USA m'a redonné un sentiment d'appartenance que j'avais perdu."* — Un membre de la région de Washington D.C.
-
-*"C'est incroyable de pouvoir grandir tout en comprenant qui je suis vraiment. Grâce aux Héritiers Badoumka, je parle maintenant le Bamiléké avec ma mère."* — Une jeune participante au programme Héritiers
-
-**Le calendrier de Badoumka USA**
-
-Les réunions se tiennent chaque **2e dimanche du mois**, alternant entre les différentes régions (DMV, New York, Texas, Ohio) pour faciliter la participation de tous les membres. Ces rencontres sont ouvertes à tout fils ou fille de Badoumka résidant aux États-Unis.
+**Gouvernance** — Opérer avec transparence radicale et responsabilité envers nos membres. Chaque décision est prise collectivement, chaque dollar est compté, chaque voix importe.
 
 **Regarder vers l'avenir**
 
-En 2026, nous avons des ambitions claires : doubler notre effectif, lancer des initiatives de soutien au village de Badoumka au Cameroun, et établir des partenariats avec d'autres associations camerounaises. Notre succès précoce montre que Badoumka USA remplit un vide crucial dans la vie de notre communauté.
+Notre vision pour Badoumka USA est ambitieuse. Dans les années à venir, nous visons à :
 
-Rejoignez-nous — nous sommes plus forts ensemble.`,
+- Étendre notre présence à d'autres régions des États-Unis où vivent des Fils et Filles de Badoumka
+- Lancer des programmes formels (Héritiers Badoumka pour la jeunesse, Badoumka Cares pour l'entraide communautaire)
+- Créer des partenariats économiques qui prospèrent dans la diaspora ET bénéficient au village
+- Construire une organisation qui durera 100 ans, pas juste 10
+
+Nous savons qu'il existe une demande réelle. Les appels téléphoniques, les messages, les demandes d'adhésion — tout cela nous dit que nous avons frappé un besoin profond chez nos compatriotes dispersés.
+
+**Ce que les premiers membres en disent**
+
+*"Après des années d'isolement, j'ai finalement trouvé ma communauté. Badoumka USA me fait sentir moins seul."* — Un membre fondateur
+
+*"C'est beau de savoir que mes enfants pourront connaître leurs racines Badoumka à travers une communauté qui partage les mêmes valeurs."* — Une mère de famille
+
+**Le calendrier de Badoumka USA**
+
+Les réunions se tiennent chaque **deuxième dimanche du mois** à Washington D.C. Ces rencontres sont ouvertes à tout fils ou fille de Badoumka résidant aux États-Unis. Qu'il s'agisse de vos premiers pas ou de votre retour, vous êtes bienvenu(e).
+
+**Rejoignez-nous**
+
+Rejoignez-nous — nous sommes plus forts ensemble. Que vous soyez établi depuis des années ou que vous veniez d'arriver, Badoumka USA vous offre un espace pour appartenir, pour contribuer, et pour préserver l'héritage que nos ancêtres nous ont transmis.
+
+Contactez-nous pour participer à notre prochaine réunion mensuelle.`,
     icon: '📢',
     colorBg: 'bg-[#0F5132]',
     colorText: 'text-white',
@@ -147,73 +162,83 @@ En rejoignant et en soutenant Badoumka USA, vous montrez à vos enfants que la f
     metaDescription: 'Le programme Badoumka Cares de l\'association Badoumka USA : comment fonctionne notre fonds d\'entraide communautaire pour les Camerounais aux États-Unis.',
     excerpt: 'Le programme Badoumka Cares incarne la valeur de solidarité qui est au cœur de notre association. Fonctionnement, critères d\'éligibilité, et premiers retours d\'expérience.',
     keywords: ['Badoumka Cares', 'entraide camerounaise', 'solidarité diaspora', 'association Badoumka', 'soutien communautaire USA'],
-    content: `Quand un membre de notre communauté traverse une épreuve difficile — maladie, perte d'emploi, deuil, urgence médicale —, personne ne devrait avoir à y faire face seul. C'est la philosophie derrière Badoumka Cares, le programme d'entraide solidaire de Badoumka USA.
+    content: `Quand un membre de notre communauté traverse une épreuve difficile — maladie, perte d'emploi, deuil, urgence médicale —, personne ne devrait avoir à y faire face seul. C'est la philosophie derrière Badoumka Cares, le programme d'entraide solidaire que nous lançons bientôt.
 
-**Comment ça fonctionne ?**
+**Pourquoi Badoumka Cares ?**
 
-Chaque membre actif contribue à un fonds commun lors des réunions mensuelles. Ce fonds est géré de manière transparente par le bureau exécutif, avec une comptabilité accessible à tous les membres. Lorsqu'une situation d'urgence est déclarée et validée, le soutien est mobilisé rapidement — en quelques jours.
+En diaspora, nous sommes loin de nos familles élargies qui, au Cameroun, forment le filet de sécurité traditionnel. Quand une crise arrive, beaucoup d'entre nous la gèrent seuls. Badoumka Cares change cela. Il dit : "Vous ne serez jamais seuls. Votre communauté est là pour vous."
 
-**Qui peut en bénéficier ?**
+**Comment fonctionnera Badoumka Cares ?**
 
-Tout membre en règle de cotisation depuis au moins trois mois peut solliciter un soutien Badoumka Cares. La demande est traitée avec discrétion et bienveillance par le comité de suivi. Nous croyons que la dignité de chaque membre est sacrée, et nos processus reflètent cette valeur.
+Le modèle est simple mais puissant :
 
-**Critères d'éligibilité détaillés**
+**1. Un fonds communautaire** — Les membres contribuent régulièrement (des montants à être déterminés ensemble). Ce fonds crée un réservoir d'aide mutuellement bénéfique.
 
-Pour bénéficier du fonds Badoumka Cares, vous devez :
+**2. Gestion transparente** — Chaque mois, lors de nos réunions, nous partageons les finances. Qui a contribué ? Combien avons-nous en réserve ? Comment sera utilisé cet argent ? Il n'y a pas de mystère.
+
+**3. Processus juste** — Quand un membre demande du soutien, sa demande est traitée avec dignité et discrétion. Un comité examine la situation et décide rapidement.
+
+**4. Confidentialité absolue** — Les détails des situations demeurent confidentiels. Seul le comité le sait.
+
+**Qui peut demander de l'aide ?**
+
+Pour être éligible à Badoumka Cares, vous devrez :
 
 1. Être membre actif depuis au moins 3 mois
 2. Avoir participé à au moins 2 réunions mensuelles
 3. Être à jour dans vos cotisations
-4. Décrire votre situation d'urgence par écrit (formulaire confidentiel)
-5. Accepter une brève entrevue avec le comité (pour comprendre vos besoins)
 
-Les types de situations couvertes incluent : urgences médicales, pertes d'emploi, décès familial, accidents, frais d'hospitalisation non couverts par l'assurance.
+Les types de situations que Badoumka Cares couvrira :
+- Urgences médicales inattendues
+- Pertes d'emploi temporaires
+- Accidents ou décès familial
+- Autres crises financières aiguës
 
-**La transparence comme pilier**
+**Notre engagement : la transparence radicale**
 
-Le bureau de Badoumka USA publie régulièrement un état des finances de l'association lors des réunions mensuelles. Chaque membre peut voir exactement comment les fonds sont utilisés. Cette transparence est fondamentale à notre modèle de confiance communautaire.
+Badoumka Cares fonctionnera selon le principe de **transparence radicale**. Cela signifie :
 
-Nos rapports mensuels indiquent :
-- Montant total collecté ce mois-ci
-- Aides distribuées (anonymisées)
-- Solde du fonds
-- Projections pour les mois à venir
+- Chaque dollar reçu est compté et rapporté
+- Chaque aide distribuée est documentée (de manière anonymisée)
+- Chaque membre peut voir exactement où va l'argent
+- Les rapports sont présentés chaque mois à tous les membres
+- Pas de détournement, pas de favoritisme, pas de secrets
 
-**Métriques d'impact : ce que nous avons accompli**
+Nous croyons que la confiance naît quand il n'y a rien à cacher.
 
-Depuis le lancement de Badoumka Cares en janvier 2026 :
-- **6 familles soutenues** pour des situations d'urgence
-- **Montant total distribué** : 8,500 USD
-- **Aide moyenne par situation** : 1,400 USD
-- **Taux de participation** : 73% des membres actifs cotisent régulièrement
+**Un exemple de ce à quoi cela ressemblera**
 
-Ces chiffres montrent que nos membres croient à cette mission. Plus nous sommes nombreux, plus nous pouvons aider.
+Imaginons que Monsieur X — un de nos membres — perde son emploi. Il contacte le Responsable Badoumka Cares. Il remplit un formulaire confidentiel. Il rencontre le comité (en personne ou par téléphone). Dans les 7-10 jours, une décision est prise.
 
-**Histoires de succès (anonymisées)**
+Si approuvée, l'aide est versée directement sur son compte bancaire. Aucune question gênante. Aucune stigmatisation. Juste de la solidarité.
 
-*Situation 1 :* Un membre a perdu son emploi du jour au lendemain. Badoumka Cares lui a fourni une aide d'urgence de 1,500 USD pour couvrir un mois de loyer et de nourriture, ce qui lui a donné le temps de trouver un nouveau travail.
+**Quand commence Badoumka Cares ?**
 
-*Situation 2 :* Une mère célibataire a dû faire face à une urgence médicale inattendue. Grâce à Badoumka Cares, elle n'a pas eu à choisir entre sa santé et le bien-être financier de ses enfants.
+Nous travaillons actuellement à la finalisation des détails :
+- Le montant exact de cotisation mensuelle
+- Les critères précis d'éligibilité
+- La composition du comité de supervision
+- Les protocoles de prise de décision
 
-*Situation 3 :* Un jeune professionnel a eu un accident de voiture. Le fonds l'a aidé à couvrir les franchises d'assurance qu'il ne pouvait pas payer seul.
+Nous lancerons Badoumka Cares dès que nous aurons un consensus sur ces éléments. Attendez une annonce officielle lors de notre prochaine réunion mensuelle.
 
-**Comment demander de l'aide**
+**Comment participer dès maintenant**
 
-Si vous traversez une période difficile :
+Si vous êtes intéressé par Badoumka Cares :
 
-1. Contactez le Responsable Badoumka Cares (nom et email à votre réunion mensuelle)
-2. Complétez le formulaire de demande (confidentiel)
-3. Participez à un entretien discret avec le comité
-4. Recevez une décision dans les 7-10 jours
-5. L'aide est transférée directement à votre compte (ou par autre arrangement)
+1. **Devenez membre de Badoumka USA** — Assistez à une réunion mensuelle (2e dimanche du mois)
+2. **Participez à la discussion** — Vos idées sur comment structurer le programme sont bienvenues
+3. **Engagez-vous** — Signalez votre intention de cotiser quand le programme lancera
 
-Tout le processus est confidentiel. Seuls les membres du comité Badoumka Cares connaissent votre situation.
+**Ce que cela signifie pour notre communauté**
 
-**Ce que cela signifie pour vous**
+Badoumka Cares n'est pas juste un fonds d'argent. C'est un engagement mutuellement bénéfique. Il dit : "Je suis responsable pour toi, et tu es responsable pour moi." C'est le fondement de la solidarité véritable — pas la charité, mais la fraternité.
 
-Rejoindre Badoumka USA, c'est aussi rejoindre ce filet de sécurité. Avec Badoumka Cares, vous ne traverserez jamais une crise majeure sans le soutien de votre communauté. C'est ça, la solidarité concrète.
+C'est ça, la vision de Badoumka USA : une communauté où chacun sait qu'en cas de crise, il ne sera jamais seul.
 
-Contactez-nous pour en savoir plus.`,
+**Vous en saurez plus très bientôt. Restez connectés.**
+
+Contactez-nous pour rejoindre Badoumka USA et contribuer à cette vision.`,
     icon: '🤝',
     colorBg: 'bg-[#0F5132]',
     colorText: 'text-white',
