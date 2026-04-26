@@ -17,6 +17,94 @@ export interface Article {
 
 export const ARTICLES: Article[] = [
   {
+    id: 5,
+    slug: 'badoumka-village-histoire-culture-heritage',
+    category: 'Héritage & Culture',
+    date: '26 avril 2026',
+    dateISO: '2026-04-26',
+    readTime: '6 min',
+    title: 'Badoumka Village : Histoire, Culture et Héritage',
+    metaDescription: 'Découvrez l\'histoire de Badoumka, son riche patrimoine culturel Bamiléké, et pourquoi ce village ancestral reste au cœur de notre identité diaspora.',
+    excerpt: 'Au cœur des Hauts Plateaux du Cameroun, Badoumka est bien plus qu\'un village — c\'est l\'âme de notre identité collective. Découvrez son histoire, sa culture, et le lien intemporel que chaque Fils et Fille de Badoumka partage avec ce lieu.',
+    keywords: ['Badoumka village', 'Cameroun héritage', 'culture Bamiléké', 'diaspora racines', 'patrimoine camerounais'],
+    content: `Badoumka n'est pas qu'un point sur une carte du Cameroun. C'est un univers complet — une façon d'être, une philosophie, une connexion spirituelle qui unit tous ceux qui portent ce nom, qu'ils vivent dans le village ancestral ou aux quatre coins du monde.
+
+Pour les Fils et Filles de Badoumka dispersés aux États-Unis, comprendre notre village, c'est comprendre qui nous sommes vraiment.
+
+**Badoumka : un village enraciné dans la tradition Bamiléké**
+
+Niché dans les Hauts Plateaux de l'Ouest Cameroun, à quelques kilomètres de Bafoussam, Badoumka est l'une des nombreuses chefferies qui composent le peuple Bamiléké — l'un des groupes ethniques les plus dynamiques et prospères du Cameroun.
+
+La région Bamiléké, souvent appelée "le grenier du Cameroun", est caractérisée par ses terres fertiles, ses collines verdoyantes, et une tradition pluriséculaire d'agriculture, d'artisanat et de commerce. Badoumka, comme ses villages voisins, s'inscrit dans cette richesse culturelle et économique.
+
+Mais ce qui rend Badoumka unique, c'est son esprit. C'est une communauté où chacun contribue au bien commun, où la dignité du individu est inséparable de l'honneur de la collectivité, et où les traditions ancestrales continuent de guider les décisions modernes.
+
+**Les racines profondes : une histoire de plusieurs siècles**
+
+Bien que les archives écrites soient limitées, la tradition orale de Badoumka remonte à plusieurs générations. Selon nos ancêtres, Badoumka a été fondée par un chef fondateur dont le nom et les exploits sont restés gravés dans la mémoire collective.
+
+Au fil des siècles, Badoumka a connu des périodes de prospérité et de défis. Le village a survécu aux grands bouleversements historiques — la colonisation, les changements politiques, les migrations — en préservant obstinément son identité et ses valeurs.
+
+Chaque génération a ajouté son propre chapitre à l'histoire de Badoumka. Nos grands-parents ont vu l'indépendance du Cameroun. Nos parents ont construit les fondations de la vie moderne au village. Et maintenant, nous, la diaspora, nous écrivons un nouveau chapitre en maintenant Badoumka vivant dans les cœurs des membres dispersés aux États-Unis.
+
+**La culture Badoumka : au-delà des traditions**
+
+Quand on parle de culture Badoumka, on parle de plusieurs éléments distincts mais profondément liés :
+
+**La langue** — Le Bamiléké, parlé à Badoumka sous une variante locale spécifique, est le premier véhicule de notre identité. Chaque mot, chaque proverbe, chaque expression contient une sagesse ancestrale. Pour un enfant de Badoumka né aux États-Unis, apprendre cette langue, c'est tracer un fil direct jusqu'à ses grands-parents.
+
+**La cuisine** — Les mets de Badoumka reflètent l'abondance des terres agricoles locales. Des repas traditionnels comme l'achu, le ndolé, la salade Cameroun sont bien plus que de la nourriture — ce sont des souvenirs condensés, des liens affectifs, des moments de célébration en famille.
+
+**La musique et la danse** — Les rythmes de Badoumka résonnent lors de chaque célébration. La danse traditionnelle, souvent exécutée lors des fêtes de fondation ou des cérémonies familiales, est une forme d'expression corporelle qui raconte les joies et les peines de notre communauté.
+
+**La gouvernance** — Avec sa chefferie traditionnelle, Badoumka représente un modèle unique de leadership basé sur la sagesse, le respect et la responsabilité envers la communauté. Le Chef n'est pas un tyran mais un gardien des traditions et un protecteur de l'harmonie sociale.
+
+**L'agriculture** — Badoumka, comme beaucoup de villages Bamiléké, dépend profondément de l'agriculture. La terre n'est pas qu'une ressource économique — c'est une relation sacrée avec nos ancêtres et une responsabilité envers les générations futures.
+
+**Pourquoi l'héritage Badoumka importe à la diaspora**
+
+Pour ceux d'entre nous qui vivent loin de Badoumka, le village représente plusieurs choses essentielles :
+
+Premièrement, **une ancre identitaire**. Dans un monde où l'assimilation culturelle peut être facile et tentante, Badoumka nous rappelle qui nous sommes vraiment. Elle nous donne une réponse à la question "D'où viens-tu ?" qui va bien au-delà d'une réponse géographique.
+
+Deuxièmement, **une source de dignité**. Badoumka nous enseigne que notre valeur ne vient pas de nos salaires ou de nos titres, mais de notre caractère, notre intégrité et notre contribution à la communauté. Cet enseignement est plus pertinent que jamais aux États-Unis.
+
+Troisièmement, **un devoir de transmission**. Comme disait un ancêtre Badoumka, "Un arbre ne peut pas vivre sans ses racines." Nous avons la responsabilité de transmettre à nos enfants la richesse culturelle que nos ancêtres nous ont transmise.
+
+**Badoumka aujourd'hui : tradition et modernité**
+
+Badoumka, comme beaucoup de villages camerounais, connaît des changements rapides. L'électricité arrive, les enfants vont à l'école, les jeunes explorent les opportunités urbaines.
+
+Mais ce qui est remarquable, c'est que Badoumka a réussi à intégrer la modernité sans perdre son essence. Le Chef utilise les téléphones mobiles pour communiquer avec les Fils et Filles dispersés. Les réunions mensuelles du conseil villageois intègrent les retours d'expérience de ceux qui vivent en diaspora.
+
+C'est précisément ce modèle que Badoumka USA cherche à reproduire — honorer la tradition tout en embrassant les réalités du monde moderne.
+
+**Votre rôle en tant que Fils ou Fille de Badoumka**
+
+Que vous ayez grandi à Badoumka ou que vous soyez né aux États-Unis de parents originaires du village, vous êtes porteur de son héritage.
+
+Voici ce que vous pouvez faire pour préserver et transmettre cet héritage :
+
+- **Apprendre la langue** — Même quelques mots de Bamiléké connectent votre enfant à ses racines
+- **Apprendre l'histoire** — Écoutez les récits de vos parents et grands-parents
+- **Participer aux célébrations** — Que ce soit une réunion mensuelle de Badoumka USA ou une fête familiale, soyez présent
+- **Investir dans le village** — Que ce soit par des contributions matérielles ou par le partage de compétences professionnelles, soutenez le développement de Badoumka
+
+**Conclusion : Badoumka vit en nous**
+
+Badoumka n'est pas une destination touristique. C'est un état d'esprit, une responsabilité, et un héritage vivant.
+
+À travers Badoumka USA, nous maintenons Badoumka vivant dans nos cœurs et dans nos actions quotidiennes. Chaque réunion mensuelle, chaque conversation en Bamiléké, chaque acte de solidarité envers un member est un acte d'honneur envers nos ancêtres et envers les générations futures.
+
+**Rejoignez-nous pour préserver et célébrer l'héritage Badoumka.** Contactez Badoumka USA pour participer à notre prochaine réunion ou pour en savoir plus sur nos programmes.
+
+Badoumka — une nation du cœur, dispersée mais unie.`,
+    icon: '🏛️',
+    colorBg: 'bg-[#A8391C]',
+    colorText: 'text-white',
+  },
+
+  {
     id: 1,
     slug: 'lancement-officiel-badoumka-usa',
     category: 'Actualités',
